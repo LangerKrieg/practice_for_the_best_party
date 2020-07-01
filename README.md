@@ -13,4 +13,5 @@
   
 Аккаунты на Stepik:  
   https://stepik.org/users/56835482 - Наконечная Анастасия  
-  https://stepik.org/users/57816232 - Никитин Александр
+  https://stepik.org/users/57816232 - Никитин Александр  
+  https://stepik.org/users/58232295 - Бердникова Анастасия
